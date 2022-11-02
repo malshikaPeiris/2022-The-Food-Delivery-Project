@@ -1,0 +1,30 @@
+
+/*** DRAG AREA**/
+
+#drop_file_zone {
+    background-color: #EEE;
+    border: #999 5px dashed;
+    width: 300px;
+    height: 150px;
+    padding: 4px;
+    font-size: 20px;
+}
+#drag_upload_file {
+    width:50%;
+    margin:0 auto;
+}
+#drag_upload_file p {
+    text-align: center;
+}
+#drag_upload_file #selectfile {
+    display: none;
+}
+.img-content{
+    width: 150px;
+    height: 150px;
+}
+/* 
+#menuView{
+    border-radius: 10px;
+    background-color: #999;
+} */
